@@ -31,7 +31,7 @@
 
 .banner-fixed{
 	height:20vh;
-	background-image: url("../images/fleurs.jpeg");
+	background-image: url("../images/fleurs.jpg");
 	margin: 48px 0;
 	background-size: cover;
 	background-attachment: fixed;
